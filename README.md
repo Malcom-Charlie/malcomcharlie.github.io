@@ -93,7 +93,15 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- LIVE DEMO -->
 
+## 🚀 Live Demo <a name="live-demo"></a>
+
+> Add a link to your deployed project.
+
+- [Live Demo Link](https://malcom-charlie.github.io/malcomcharlie.github.io/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
@@ -134,6 +142,12 @@ To run the project, open the index.html file that appeared after cloning.
 - GitHub: [Malcom Charles](https://github.com/Malcom-Charlie)
 - Twitter: [Simple Malcom](https://twitter.com/simple_malcom)
 - LinkedIn: [Malcom Charles](https://www.linkedin.com/in/malcom-charles-49411017a/)
+
+👤  **Christopher Abraham**
+
+- GitHub: [Christopher Abraham](https://github.com/Cabraham1)
+- Twitter: [@_cabraham](https://twitter.com/_cabraham)
+- LinkedIn: [Abraham Christopher](https://www.linkedin.com/in/abrahamchristopher/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -191,3 +205,4 @@ This project is [MIT](./LICENSE) licensed.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
